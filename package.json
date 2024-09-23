@@ -1,0 +1,16 @@
+{
+  "name": "radar-measurement-visualization",
+  "version": "1.0.0",
+  "description": "Web app to visualize radar measurement data in real-time using WebSockets and API.",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "plotly.js": "^2.11.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "keywords": [],
+  "author": "flakeed"
+}
