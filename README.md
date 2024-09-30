@@ -3,6 +3,7 @@
 
 ## Project Overview
 This project implements a web-based visualization system for radar measurements. It connects to a radar emulation service via WebSocket, processes the received data in real-time, and displays detected targets on a polar chart.
+![image](https://github.com/user-attachments/assets/66e4bb54-1f87-4399-8ef8-4973387b0396)
 
 ## Features
 - **Real-time Data Visualization**:
